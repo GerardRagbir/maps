@@ -1,1 +1,0 @@
-Used for manual testing of _package:maps_.
